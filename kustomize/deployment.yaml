@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
       - name: podinfod
-        image: nakabonne/podinfo:sha-75fa595
+        image: nakabonne/podinfo:sha-0a1e1df
         imagePullPolicy: IfNotPresent
         ports:
         - name: http
